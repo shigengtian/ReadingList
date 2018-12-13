@@ -7,3 +7,5 @@ Learning Physical Intuition of Block Towers by Example.
 arXiv preprint. Retrieved from http://arxiv.org/abs/1603.01312
 
 * Zoph B, Vasudevan V, Shlens J, et al. Learning transferable architectures for scalable image recognition[J]. arXiv preprint arXiv:1707.07012, 2017, 2(6).
+
+* Geometry-Aware Learning of Maps for Camera Localization
