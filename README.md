@@ -10,6 +10,7 @@ arXiv preprint. Retrieved from http://arxiv.org/abs/1603.01312
 
 * Geometry-Aware Learning of Maps for Camera Localization
 
+* http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Learning_Rich_Features_CVPR_2018_paper.pdf
 ### CVPR 2017
 
 * Deep Reinforcement Learning-based Image Captioning with Embedding Reward
