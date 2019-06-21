@@ -15,5 +15,6 @@ arXiv preprint. Retrieved from http://arxiv.org/abs/1603.01312
 
 * Deep Reinforcement Learning-based Image Captioning with Embedding Reward
 
+### CVPR 2019
 ### Traffic control
 https://faculty.ist.psu.edu/jessieli/Publications/2018-KDD-IntelliLight.pdf
